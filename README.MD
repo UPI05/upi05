@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin - Hiếu Võ](https://www.linkedin.com/in/upi05) | [Facebook - Hiếu V.](https://www.facebook.com/hieu01234567)
 
 <div align="center">
-  <img src="https://github.com/upi05/upi05/gifs/welcome.gif" />
+  <img src="https://github.com/upi05/upi05/blob/main/gifs/welcome.gif" />
 </div>
 
