@@ -1,0 +1,17 @@
+<h1 align="center">Hi there 👋 I'm Võ Trường Trung Hiếu (upi05) </h1>
+
+<h3 align="center" style="">
+  <i>A Passionate Developer</i>
+</h3>
+
+## ✨ Welcome to my github
+
+- 🌱 I’m currently learning in [VNUHCM-University of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
+- 📂 All of my projects are available at [github.com/upi05](https://github.com/upi05)
+- ⚡ I really want to learn, accumulate knowledge and I will do anything for free in order to learn new things.
+- 📫 How to reach me: [Linkedin - Hiếu Võ](https://www.linkedin.com/in/upi05) | [Facebook - Hiếu V.](https://www.facebook.com/hieu01234567)
+
+<div align="center">
+  <img src="https://github.com/upi05/upi05/gifs/welcome.gif" />
+</div>
+
