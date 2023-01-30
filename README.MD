@@ -1,4 +1,4 @@
-<h1 align="center">I'm Võ Trường Trung Hiếu (upi05) </h1>
+<h1 align="center">upi05</h1>
 
 ## ✨ Welcome to my github
 
